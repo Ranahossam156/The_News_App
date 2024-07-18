@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # news_app_task
+=======
+# news_cloude_app
+>>>>>>> 8e0c90e1b7500e3955bcc6bc8788b92f47b50412
 
 A new Flutter project.
 
